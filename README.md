@@ -16,7 +16,7 @@ Freelance C++ Developer | Memory Management, Reverse Engineering & Automation To
 ---
 
 ## 📂 Pinned Repositories
-*(Eklenecek, şimdilik boş bırakabilirsiniz)*
+*to be added*
 
 ---
 
